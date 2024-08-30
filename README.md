@@ -25,4 +25,6 @@ This project is not currently licensed. It is for educational purposes and demon
 
 ## Contact
 If you have any questions or feedback, you can reach out to me:
+https://www.linkedin.com/in/garvit-sethi-507720189/
+Thanks!
 
